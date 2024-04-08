@@ -12,6 +12,7 @@ timezone: 'Asia/Shanghai'
 language: # At present, only en、cn and tw are supported. You can customize the language，refer to `languages/en.yml`.
   - cn
   # - en
+
 langselect:
   enable: false # If open, it will automatically generation lang-select button.This button can jump in articles in different languages, but the articles must have the same name.
   options: # langselect button display options
@@ -65,20 +66,21 @@ wave: true
 # SNS Settings
 # RSS: true
 github_username: lxp731
+zhihu_username: burgess-5
+weibo_username: 7840418804
 # twitter_username: V_Vincen_
 # instagram_username: v_vincen_
 # facebook_username:  yourAccount
 # linkedin_username:  yourAccount
-# zhihu_username: WVincen
-# weibo_username: WVincen
 
 
 # Sidebar Settings
 sidebar: true   # whether or not using Sidebar.
 sidebar-about-description: "With great power comes great responsibility."
 sidebar-avatar: img/head-pic.jpg    # use absolute URL, seeing it's used in both `/` and `/about/`
+# busuanzi: https://busuanzi.ibruce.info/
 widgets:
-- visitor   # busuanzi: https://busuanzi.ibruce.info/
+- visitor   
 - featured-tags
 - short-about
 - recent-posts
@@ -113,18 +115,18 @@ friends: [
 ## Gitalk Settings
 ## Doc:https://github.com/gitalk/gitalk/blob/master/readme-cn.md
 ##
-gitalk:
-  owner:                          # 'GitHub repo owner'
-  admin:                          # 'GitHub repo'
-  repo:                           # ['GitHub repo owner and collaborators, only these guys can initialize github issues']
-  clientID:                       # 'GitHub Application Client ID'
-  clientSecret:                   # 'GitHub Application Client Secret'
-  perPage: 10                     # Pagination size, with maximum 100.
-  pagerDirection: last            # Comment sorting direction, available values are last and first.
-  createIssueManually: false      # By default, Gitalk will create a corresponding github issue for your every single page automatically when the logined user is belong to the admin users. You can create it manually by setting this option to true
-  language: en                    # Localization language key, en, zh-CN and zh-TW are currently available.
-  maxCommentHeight: 250           # An optional number to limit comments' max height, over which comments will be folded.Default 250.
-  proxy: https://cors-anywhere.azm.workers.dev/https://github.com/login/oauth/access_token  # GitHub oauth request reverse proxy for CORS. For example, the demo url is 'https://cors-anywhere.herokuapp.com/https://github.com/login/oauth/access_token'.You should deploy your own proxy url as in this issue https://github.com/gitalk/gitalk/issues/429.
+# gitalk:
+#   owner:                          # 'GitHub repo owner'
+#   admin:                          # 'GitHub repo'
+#   repo:                           # ['GitHub repo owner and collaborators, only these guys can initialize github issues']
+#   clientID:                       # 'GitHub Application Client ID'
+#   clientSecret:                   # 'GitHub Application Client Secret'
+#   perPage: 10                     # Pagination size, with maximum 100.
+#   pagerDirection: last            # Comment sorting direction, available values are last and first.
+#   createIssueManually: false      # By default, Gitalk will create a corresponding github issue for your every single page automatically when the logined user is belong to the admin users. You can create it manually by setting this option to true
+#   language: cn                    # Localization language key, en, zh-CN and zh-TW are currently available.
+#   maxCommentHeight: 250           # An optional number to limit comments' max height, over which comments will be folded.Default 250.
+#   proxy: https://cors-anywhere.azm.workers.dev/https://github.com/login/oauth/access_token  # GitHub oauth request reverse proxy for CORS. For example, the demo url is 'https://cors-anywhere.herokuapp.com/https://github.com/login/oauth/access_token'.You should deploy your own proxy url as in this issue https://github.com/gitalk/gitalk/issues/429.
 
 
 ## Gitment Settings
@@ -253,13 +255,14 @@ archive_generator:
 ## Docs: https://github.com/celsomiranda/hexo-renderer-markdown-it/wiki
 ##
 # markdown:
-  render:
-    html: true
-    xhtmlOut: false
-    breaks: true
-    linkify: true
-    typographer: true
-    quotes: '“”‘’'
+#   preset: 'default'
+#   render:
+#     html: true
+#     xhtmlOut: false
+#     breaks: true
+#     linkify: true
+#     typographer: true
+#     quotes: '“”‘’'
 
 
 # Build Settings
@@ -274,13 +277,13 @@ top: true
 ## Dependencies: https://github.com/willin/hexo-wordcount
 ## Docs: https://www.npmjs.com/package/hexo-wordcount
 ##
-wordcount: false
+wordcount: true
 
 
 # Busuanzi Settings
 ## Dependencies: https://busuanzi.ibruce.info/
 ## Docs: https://ibruce.info/
-busuanzi: false
+busuanzi: true
 
 
 # top scroll progress
@@ -289,14 +292,14 @@ scroll: true
 
 # Tip
 tip:
-  enable: true
-  # copyright: If you like this blog or find it useful for you, you are welcome to comment on it. You are also welcome to share this blog, so that more people can participate in it. If the images used in the blog infringe your copyright, please contact the author to delete them. Thank you !
+  enable: false
+  copyright: If you like this blog or find it useful for you, you are welcome to comment on it. You are also welcome to share this blog, so that more people can participate in it. If the images used in the blog infringe your copyright, please contact the author to delete them. Thank you !
 
 
 # Social Share Post
 ## Docs:https://github.com/overtrue/share.js
 ##
-socialshare: true
+socialshare: false
 
 
 # Viewer config
@@ -316,15 +319,14 @@ themecolor:
 mouseclick:
   enable: true
   content:
-    - The first step is as good as half over...
-    - Laugh and grow fat...
-    - Man proposes God disposes...
-    - When all else is lost the future still remains...
-    - Wasting time is robbing oneself...
-    - Sharp tools make good work...
-    - Cease to struggle and you cease to live...
-    - A friend in need is a friend indeed...
-    - Faith can move mountains...
+    - 自尊
+    - 自爱
+    - 自立
+    - 自强
+    - 爱国
+    - 敬业
+    - 诚信
+    - 友善
   color:
     - '#9933CC'
     - '#339933'
@@ -337,12 +339,12 @@ mouseclick:
     - '#FF0033'
 
 
-# Ribbon config
+# Ribbon config 彩带
 ribbonDynamic: true
 
-
-# Line config
-bglinecanvas: false  # The special effects will take up a lot of cpu resorces, please open it carefully.
+# The special effects will take up a lot of cpu resorces, please open it carefully.
+# Line config 小飞棍来喽
+bglinecanvas: false  
 
 
 # Search Setting
@@ -367,8 +369,8 @@ theme: livemylife
 # Gitter
 ## Docs:https://gitter.im/?utm_source=left-menu-logo
 ##
-gitter:
-  room: your-community/your-room
+#gitter:
+  #room: your-community/your-room
 
 
 # Deployment
@@ -376,5 +378,5 @@ gitter:
 ##
 deploy:
   type: git
-  repo: git@github.com:lxp731/lxp731.github.io.git # or https://gitee.com/<yourAccount>/<repo>
+  repo: git@github.com:lxp731/lxp731.github.io.git
   branch: main
