@@ -1,75 +1,43 @@
 ---
 layout: "about"
 title: "About"
-date: 2016-04-21 04:48:33
-description: "那些年吹过的牛逼，还有很多没有实现 ......"
-header-img: "img/scenery/about_bg.jpg"
+date: 2024-04-09 04:48:33
+description: "任何成就都是从决定尝试开始......"
+header-img: "img/about-bg.jpg"
 ---
 
-## Talk To Me
+## 讲给自己的话
 
-> I always say to myself :
+> 不断的努力，不断地去接近梦想，越挫越勇吃尽酸甜苦辣，能够抵御寒冬，也能够拥抱春天，这样的才叫生活啊。
 >
-> if my life is peaceful and plain sailing all the time ,
+> 生活是不公平的，不管你的境遇如何，你只能全力以赴。任何时候，不要过分去纠结公平与否，全力以赴，无怨无悔，轻松笑对得与失。
 >
-> it means to die in the electrocardiogram …
+> 无理取闹的年龄已经过了，你的努力才能换来你想要的。努力做一个优秀、成熟、稳重的自己。
 
+## 喜欢的罗翔老师的话
 
+<img src="/img/about-way.jpg" width="350" alt="about_bg2"></img>
 
-## Just Me
-
-<img src="/img/scenery/about_bg2.jpg" width="350" alt="about_bg2"></img>
-
-> 有一种状态 叫一个人 它总是挑战语言的贫乏 只能在某首歌中找寻灵感；
+> 没有最终的成功，也没有致命的失败，最可贵的是继续前进的勇气。
 >
-> 有一种氨基酸 叫多巴胺 你不知道它何时会在你体内产生；
+> 越是能够体现人的尊严的快乐就是越高级的快乐。
 >
-> 有一种上瘾 叫抽烟 其实你抽的只是心情 又或是寂寞；
+> 今早雾霾蔽日，但是不要害怕，太阳依旧在云端。
 >
-> 有一种态度 叫纹身 其实我们只是想与众不同；
+> 爱不是爱抽象的概念，而是爱具体的人；不是爱“人类”，而是爱“人”。
 >
-> 有一种经历 叫旅行 年轻只有一次 不出去走走 或许以为眼前的就是世界；
+> 绝对权力导致绝对腐败。
 >
-> 有一种人生 叫心电图 如果你总是一帆风顺 那么你就挂了；
->
-> 有一种悠闲 叫 " 老板给我杯Cappuccino " 香香甜甜 浓郁中带着苦涩 醇和而隽永 …
+> 愿你我心怀永恒，活在当下，爱你身边每个不朽的人。
 
-
-
-## The Longest Way ...
-
-<img src="/img/scenery/about_bg4.jpg" width="350" alt="about_bg4"></img>
-
->  活在当下 然后忘记 继续往前走 ...
->
->  即便是一个人 ...
->
->  On the way to meet myself …
-
-
-## Follow With Interest Blogs
+## 其他有趣的博客
 
 > Neo Peng：https://zhile.io
 >
-> 李卫民：https://www.funtl.com/zh/guide
+> Bashboy: https://bashboy.cc
 >
-> duanxz：https://www.cnblogs.com/duanxz/tag
->
-> Java1234_小锋：http://blog.java1234.com/index.html
->
-> Deserts：https://deserts.io
->
-> Super Snail：https://www.dusign.net
->
-> KIERAN'S BLOG：https://go.kieran.top
->
-> Mr.Seven：https://itimetraveler.github.io
+> Nustarain：https://nustarain.gitee.io
 
-## Contact me
+## 联系我
 
-> Email：601521821@qq.com
-
-## Treat me to coffee
->  If you feel that what I have written is of some value to you, I am glad that you are willing to invite me to drink coffee...
-
-<img src="/img/scenery/treat_me_to_coffee.png" width="350" alt="treat_me_to_coffee.png"></img>
+> Email：liuxp731@qq.com
