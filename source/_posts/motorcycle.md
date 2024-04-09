@@ -5,9 +5,11 @@ subtitle:   " 那个一生爱折腾的男人 "
 date:       2023-3-24 21:00:00
 author:     "Leo"
 header-img: "that_man.jpg"
-catalog: true
+catalog: false
+categories: "经历"
 tags: 
-    - 生活
+    - 心情
+    - 亲人
 ---
 
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=320 height=65 allow="autoplay" src="https://i.y.qq.com/n2/m/outchain/player/index.html?songid=446054146&songtype=0"></iframe>

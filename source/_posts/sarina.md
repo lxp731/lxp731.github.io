@@ -5,7 +5,8 @@ subtitle:   " 所有的故事都应该是句号结尾 "
 date:       2023-9-21 23:30:00
 author:     "Leo"
 header-img: "bg-material.jpg"
-catalog: true
+catalog: false
+categories: "经历"
 tags: 
     - 心情
 ---

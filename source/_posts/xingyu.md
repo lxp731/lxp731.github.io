@@ -6,8 +6,10 @@ date:       2023-3-8 19:00:00
 author:     "Leo"
 header-img: "post-bg-2015.jpg"
 catalog: true
+categories: "经历"
 tags: 
-    - 生活
+    - 心情
+    - 友情
 ---
 
 ## 序

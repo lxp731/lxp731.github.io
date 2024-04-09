@@ -6,6 +6,7 @@ date:       2023-9-15 20:43:00
 author:     "Leo"
 header-img: "1.jpeg"
 catalog: true
+categories: "经历"
 tags: 
     - 心情
 ---

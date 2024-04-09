@@ -6,6 +6,7 @@ date:       2023-9-6 18:43:00
 author:     "Leo"
 header-img: "2.jpg"
 catalog: true
+categories: "动漫"
 tags: 
     - 不良人
 ---
