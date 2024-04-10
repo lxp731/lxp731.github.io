@@ -7,6 +7,7 @@ author:     "Leo"
 header-img: "joker.jpg"
 catalog: false
 categories: "经历"
+# sticky: 20
 tags: 
     - 心情
     - 

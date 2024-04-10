@@ -41,7 +41,7 @@ permalink_defaults:
 # Custom Setting Start
 
 # Site settings
-SEOTitle: LEO BLOG | 
+SEOTitle: LEO BLOG | 七朔博客
 email: liuxiaopeng731@gmail.com
 description: "互联网乌托邦"
 keyword: "Blog,Leo,LEO,个人博客"
@@ -50,7 +50,7 @@ archives-img: img/header_img/archive_bg2.jpg
 
 
 # Favicon settings
-favicon: img/favicon.ico
+favicon: img/favicon.png
 
 
 # Signature Setup
@@ -254,15 +254,16 @@ archive_generator:
 # Markdown-it config
 ## Docs: https://github.com/celsomiranda/hexo-renderer-markdown-it/wiki
 ##
-# markdown:
-#   preset: 'default'
-#   render:
-#     html: true
-#     xhtmlOut: false
-#     breaks: true
-#     linkify: true
-#     typographer: true
-#     quotes: '“”‘’'
+markdown: kramdown
+
+render:
+  html: true
+  xhtmlOut: false
+  langPrefix: 'language-'
+  breaks: true
+  linkify: true
+  typographer: true
+  quotes: '“”‘’'
 
 
 # Build Settings
