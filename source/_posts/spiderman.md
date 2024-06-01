@@ -1,8 +1,8 @@
 ---
-layout: post
 title: 钟爱的《蜘蛛侠》里的台词
 subtitle:   " 你的好邻居"
 date:       2024-3-19 11:40:00
+lang: cn
 author:     "Leo"
 header-img: "1.jpg"
 catalog: false

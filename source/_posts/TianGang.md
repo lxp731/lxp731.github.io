@@ -2,6 +2,7 @@
 layout: post
 title: 天罡赋
 subtitle:   " 不良人版出师表 "
+lang: cn
 date:       2023-9-6 18:43:00
 author:     "Leo"
 header-img: "2.jpg"

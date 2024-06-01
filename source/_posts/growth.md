@@ -2,6 +2,7 @@
 layout: post
 title: 终不似当年模样
 subtitle:   " 走的路越长，越喜欢宅着；见的人越多，越喜欢孩子 "
+lang: cn
 date:       2023-9-15 20:43:00
 author:     "Leo"
 header-img: "1.jpeg"

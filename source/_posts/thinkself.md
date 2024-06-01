@@ -2,6 +2,7 @@
 layout: post
 title: 虾扯
 subtitle:   " 不知道写点什么描述 "
+lang: cn
 date:       2023-12-13 20:22:00
 author:     "Leo"
 header-img: "bg-little-universe.jpg"

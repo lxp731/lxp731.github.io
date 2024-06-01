@@ -2,6 +2,7 @@
 layout: post
 title: 还给故事一个句号
 subtitle:   " 所有的故事都应该是句号结尾 "
+lang: cn
 # password: sarina
 date:       2023-9-21 23:30:00
 author:     "Leo"

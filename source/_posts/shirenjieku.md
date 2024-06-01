@@ -2,6 +2,7 @@
 layout: post
 title: 你看这世人多可怜
 subtitle:   " 说的又何尝不是你 "
+lang: cn
 date:       2023-9-21 17:30:00
 author:     "Leo"
 header-img: "1.jpg"

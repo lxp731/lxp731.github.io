@@ -2,6 +2,7 @@
 layout: post
 title: 父亲的摩托车后座
 subtitle:   " 那个一生爱折腾的男人 "
+lang: cn
 date:       2023-3-24 21:00:00
 author:     "Leo"
 header-img: "that_man.jpg"

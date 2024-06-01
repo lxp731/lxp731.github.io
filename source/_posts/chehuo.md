@@ -2,6 +2,7 @@
 layout: post
 title: 记录一次车祸的成长
 subtitle:   " 它究竟在试着教会我什么？ "
+lang: cn
 date:       2024-1-1 13:01:00
 author:     "Leo"
 header-img: "joker.jpg"

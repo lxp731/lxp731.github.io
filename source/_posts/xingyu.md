@@ -2,6 +2,7 @@
 layout: post
 title: 十年友情的兜兜转转
 subtitle:   " 磕磕绊绊的十年 "
+lang: cn
 date:       2023-3-8 19:00:00
 author:     "Leo"
 header-img: "post-bg-2015.jpg"

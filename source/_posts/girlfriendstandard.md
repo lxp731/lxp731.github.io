@@ -2,6 +2,7 @@
 layout: post
 title: 找女朋友的标准
 subtitle:   " 有意见请保留 "
+lang: cn
 date:       2023-9-21 23:30:00
 author:     "Leo"
 header-img: "/img/header_img/book.jpg"
