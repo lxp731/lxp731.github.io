@@ -13,12 +13,6 @@ Github Repo: https://github.com/V-Vincen/hexo-theme-livemylife
 
 Gitee Repo: https://gitee.com/V_Vincen/hexo-theme-livemylife
 
-
-### [View LiveMyLife Blog ➾](https://v-vincen.github.io/)
-
-
-![LiveMyLife Desktop](/source/_posts/en/Hexo-Theme-LiveMyLife/livemylife-desktop.png)
-
 ## Quick Start
 
 I publish the whole project for your convenience, so you can just follow the instruction down below, then you can easily customize your own blog!
@@ -126,14 +120,6 @@ archive_generator:
   daily: false
   order_by: -date
 ```
-*English preview:*
-
-![en](/source/_posts/en/Hexo-Theme-LiveMyLife/langen.png)
-
-*Chinese preview:*
-
-![cn](/source/_posts/en/Hexo-Theme-LiveMyLife/langcn.png)
-
 
 ### CDN Settings
 JsDelivr is A free CDN for Open Source fast、reliable and automated. How to use Jsdelivr? -> Docs：[免费 CDN 提速 Github 静态资源访问](https://v-vincen.github.io/en/Github-%E5%8A%A0%E9%80%9F%E4%BC%98%E5%8C%96/#%E5%85%8D%E8%B4%B9-CDN-%E6%8F%90%E9%80%9F-Github-%E9%9D%99%E6%80%81%E8%B5%84%E6%BA%90%E8%AE%BF%E9%97%AE)
@@ -179,10 +165,6 @@ signature-img: img/signature/<your-signature>
 # Wave settings
 wave: true
 ```
-*Example:*
-
-![wave](/source/_posts/en/Hexo-Theme-LiveMyLife/wave.png)
-
 
 ### SNS Settings
 If you don’t want to display it, you can delete it directly.
@@ -313,10 +295,6 @@ You can decide to show post tags or not.
 ```yml
 home_posts_tag: true
 ```
-*Example:*
-
-![home_posts_tag-true](/source/_posts/en/Hexo-Theme-LiveMyLife/home_posts_tag-true.png)
-
 
 ### Markdown render
 My markdown render engine plugin is [hexo-renderer-markdown-it](https://github.com/celsomiranda/hexo-renderer-markdown-it).
@@ -361,9 +339,6 @@ async("//cdn.bootcss.com/anchor-js/1.1.1/anchor.min.js",function(){
 top: true
 ```
 Hexo-theme-livemylife has added the article top function, just add `sticky: number` configuration to your markdown notes, articles are sorted by this number.
-*Example:*
-
-![top](/source/_posts/en/Hexo-Theme-LiveMyLife/top.png)
 
 ### WordCount Settings
 A Word Count Plugin for Hexo. See [WordCount](https://github.com/willin/hexo-wordcount) for detailed configuration method.
@@ -413,14 +388,6 @@ Hexo-Theme-LiveMyLife temporarily supports two themes color.
 ```yml
 themecolor: true
 ```
-*Light theme preview:*
-
-![light theme](/source/_posts/en/Hexo-Theme-LiveMyLife/light.png)
-
-*Dark theme preview:*
-
-![dark theme](/source/_posts/en/Hexo-Theme-LiveMyLife/dark.png)
-
 
 ### Mouseclick Config
 ```yml
@@ -448,28 +415,16 @@ mouseclick:
     - '#66CC99'
     - '#FF0033'
 ```
-*Mouseclick preview:*
-
-![mouseclick](/source/_posts/en/Hexo-Theme-LiveMyLife/mouseclick.png)
-
 
 ### Ribbon Config
 ```yml
 ribbonDynamic: true
 ```
-*Ribbon preview:*
-
-![ribbon](/source/_posts/en/Hexo-Theme-LiveMyLife/ribbon.png)
-
 
 ### BgLineCanvas Config
 ```yml
 bglinecanvas: true  # The special effects will take up a lot of cpu resorces, please open it carefully.
 ```
-*BgLineCanvas preview:*
-
-![bglinecanvas](/source/_posts/en/Hexo-Theme-LiveMyLife/bglinecanvas.png)
-
 
 ### Search Settings
 ```yml
