@@ -380,4 +380,4 @@ theme: livemylife
 deploy:
   type: git
   repo: git@github.com:lxp731/lxp731.github.io.git
-  branch: main
+  branch: hexo
