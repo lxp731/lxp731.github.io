@@ -24,7 +24,7 @@ langselect:
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 # Note: don't forget to modify the CNAME file to your url
-url: https://liuxpblog.eu.org/   
+url: https://liuxpblog.eu.org/
 root: /
 permalink: :lang/:title/
 permalink_defaults:
@@ -41,7 +41,7 @@ permalink_defaults:
 # Custom Setting Start
 
 # Site settings
-SEOTitle: LEO BLOG | 
+SEOTitle: LEO BLOG |
 email: liuxiaopeng731@gmail.com
 description: "互联网乌托邦"
 keyword: "Blog,Leo,LEO,个人博客"
@@ -80,7 +80,7 @@ sidebar-about-description: "With great power comes great responsibility."
 sidebar-avatar: img/head-pic.jpg    # use absolute URL, seeing it's used in both `/` and `/about/`
 # busuanzi: https://busuanzi.ibruce.info/
 widgets:
-- visitor   
+- visitor
 - featured-tags
 - short-about
 - recent-posts
@@ -102,10 +102,10 @@ featured-condition-size: 0    # A tag will be featured if the size of it is more
 friends: [
     {
         title: "Bashboy",
-        href: "https://bashboy.cc"
+        href: "https://liuxp.eu.org"
     },{
         title: "Nustarain",
-        href: "https://nustarain.gitee.io"
+        href: "https://nustarain.pages.dev"
     }
 ]
 
