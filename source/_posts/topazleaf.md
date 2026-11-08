@@ -128,7 +128,7 @@ tags:
 
 ### 一个人的旅行
 
-[连云港游玩攻略.pdf](./_posts/连云港游玩攻略.pdf)
+[连云港游玩攻略.pdf](https://github.com/lxp731/lxp731.github.io/blob/main/source/_posts/topazleaf/%E8%BF%9E%E4%BA%91%E6%B8%AF%E6%B8%B8%E7%8E%A9%E6%94%BB%E7%95%A5.pdf)
 
 送你走之后，我用我规划好的旅行行程来填满你不在时的失落和空洞。
 我在连岛替你坐了你在朐山书院没有玩上的秋千。
